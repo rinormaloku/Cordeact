@@ -4,8 +4,6 @@
   "description": "Combination of cordova and react",
   "main": "index.js",
   "scripts": {
-    "test": "gulp serve",
-    "build": "webpack"
   },
   "keywords": [
     "react",

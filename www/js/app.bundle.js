@@ -20369,7 +20369,7 @@
 	            return _react2.default.createElement(
 	                'div',
 	                null,
-	                'Hello World!!!'
+	                'Goodbye World'
 	            );
 	        }
 	    }]);
