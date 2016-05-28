@@ -1,8 +1,6 @@
 var config = {
-
-    entry: './app/main.js',
+    
     output: {
-        path: './www/js',
         filename: 'app.bundle.js'
     },
 
