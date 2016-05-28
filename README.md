@@ -21,7 +21,14 @@ cordova platform add android
 ```
 cordova build
 ```
-##### 4. Run the app:
+##### 4. Run the app, first time 
+
+```
+gulp rebundle
+gulp update
+```
+And finally:
+
 ```
 gulp serve
 ```
